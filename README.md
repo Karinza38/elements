@@ -1,4 +1,4 @@
-Elements Project blockchain platform
+ Elements Project blockchain platform
 ====================================
 
 [![Build Status](https://travis-ci.org/ElementsProject/elements.svg?branch=master)](https://travis-ci.org/ElementsProject/elements)
